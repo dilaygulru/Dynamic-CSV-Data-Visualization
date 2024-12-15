@@ -1,7 +1,3 @@
-Here’s a README for your project, including a suggested name for the project:
-
----
-
 # DataPlotter - Dynamic CSV Data Visualization
 
 ## Project Overview
@@ -81,6 +77,4 @@ DataPlotter/
 
 The **DataPlotter** project demonstrates how Java can be integrated with R to create dynamic data visualizations. This project allows users to visualize real-time data from a CSV file, providing a practical and interactive approach to handling and plotting large datasets.
 
----
 
-Let me know if you'd like any adjustments!
